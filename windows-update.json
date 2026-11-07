@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "minimumVersion": "1.2.2",
-  "url": "https://cdn-pilot.reforniter.art/tunnel?op=download&platform=windows&version=1.2.2",
-  "sha256": "2395EB6605FD1FAB6474CCD6631F06D723B8F35CDA1D3B0E5407AE44717F51E7",
+  "url": "https://cdn-pilot.reforniter.art/tunnel?op=download&platform=windows&version=1.2.3",
+  "sha256": "A519BDB71185E6B3617B84EE10E0377820C2132743A6BE15FFC1D49EAD633DA7",
   "mandatory": true,
-  "notes": "Новый защищённый маршрут REALITY через Gcore. Для подключения повторите вход через Telegram. Доступ только по действующей подписке или индивидуальному разрешению; бесплатный пробный период отключён. Завершите предыдущую версию через меню трея перед установкой."
+  "notes": "Исправлен вход без стороннего VPN: отдельный канал только для Telegram на 5 минут. Согласован статус подписки и безлимита с сервером. Добавлены серверное время и независимая резервная проверка обновлений через GitHub. Бесплатный пробный период не возвращается."
 }
