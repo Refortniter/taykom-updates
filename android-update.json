@@ -1,0 +1,9 @@
+{
+  "versionCode": 122,
+  "versionName": "1.2.2",
+  "minimumVersionCode": 122,
+  "url": "https://cdn-pilot.reforniter.art/tunnel?op=download&platform=android&version=1.2.2",
+  "sha256": "D0CCD6203761E17F40EE778D23D4BE0CCAB35880E42B399C82CA7B8B511744EE",
+  "mandatory": true,
+  "notes": "Защищённый маршрут REALITY через Gcore. После обновления повторите вход через Telegram. Подключение доступно действующим подписчикам, разрешённым тестерам и администратору; бесплатный пробный период отключён."
+}
